@@ -1,6 +1,8 @@
 # battleship
 Battleship game project
 
+This project is put on hold! We'll come back!
+
 To create git
 
 1. Create your own repository in Github first.
