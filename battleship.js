@@ -78,3 +78,5 @@ class Player {
         return this.gameboard.allShipsSunk();
     }
 }
+
+module.exports = { Ship, Gameboard, Player};
